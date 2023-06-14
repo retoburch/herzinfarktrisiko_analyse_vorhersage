@@ -10,3 +10,6 @@ In dieser Analyse soll auf Basis von Patientendaten das Herzinfarktrisiko analys
 - Wie verändern die einzelnen Faktoren die Chance eines Herzinfarktes?
 
 Dazu wird ein Datensatz mit Messwerten von 303 Patienten mittels eines ML-Models ausgewertet. Der Datensatz auf Kaggle **[Heart Attack Analysis & Prediction](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)** basiert dabei auf dem Datensatz der **[UCI](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)**. Im Datenset sind 14 von 76 Attributen enthalten. Die Patientendaten stammen von der V.A. Medical Center, Long Beach and Cleveland Clinic Foundation.
+
+### Dieses Projekt wurde im Rahmen des Certificate of Basic Studies (CBS) in Data Analytics an der Leuphana Universität Lüneburg umgesetzt.
+
